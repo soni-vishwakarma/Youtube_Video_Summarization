@@ -1,7 +1,7 @@
 # Youtube_Video_Summarization
 I developed this YouTube Video Summarizer using Python, HTML, and JavaScript. It uses a Python Flask API to fetch transcripts from YouTube videos, generate a summarized version using a transformer-based model, and format the text with proper capitalization using the NLTK (Natural Language Toolkit) library. It also displays the video and allows users to download the summary as a PDF.
 
-**Install all the necessary libraries before running the code**
+**Install all the necessary libraries before running the code**  
 
 **Usage**
 1. Run the Flask application: python app.py
